@@ -104,6 +104,16 @@
 	    	
 	    }
 	});
+	var isMobile = navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(android)|(webOS)/i);
+	console.log(isMobile);	
+	if(isMobile){
+		$(".desk-browser").hide();
+		$(".mob-browser").show();
+	}else{
+		$(".desk-browser").show();
+		$(".mob-browser").hide();
+	}
+
 
 	$(window).load(function(){
 
