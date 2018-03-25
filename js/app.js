@@ -97,7 +97,7 @@
 					}  
 				},
 				marker:{
-					address: "40 Sibley St, Detroit",
+					address: "20/10, 3rd Main Rd, 37th Extension, Thillaiganga Nagar, Nangainallur, Chennai, Tamil Nadu 600061",
 				}
 			},
 			"autofit" );
