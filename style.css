@@ -148,7 +148,7 @@ form input:not([type="submit"]), form textarea { padding: 20px 20px; background:
 .team.small .team-name { font-size: 14px; font-size: 0.875rem; font-weight: 700; }
 .team.small p { font-size: 14px; font-size: 0.875rem; }
 
-.news { *zoom: 1; position: relative; padding-left: 100px; margin-bottom: 30px; min-height: 100px; }
+.news { *zoom: 1; position: relative; padding-left: 30px; margin-bottom: 30px; min-height: 100px; }
 .news:after { content: " "; clear: both; display: block; overflow: hidden; height: 0; }
 .news .entry-date { width: 70px; position: absolute; left: 0; top: 0; text-align: center; }
 .news .entry-date .date { font-size: 60px; font-size: 3.75rem; line-height: 1; font-weight: 300; font-family: "Novecento Sans", "Open Sans", sans-serif; background-image: -webkit-linear-gradient(90deg, #cc7250, #f7d0c2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
